@@ -51,5 +51,8 @@
     "tailwindcss": "^4",
     "tw-animate-css": "^1.3.6",
     "typescript": "^5"
+  },
+   "overrides": {
+    "esbuild": "^0.25.0"
   }
 }
